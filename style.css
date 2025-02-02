@@ -1,5 +1,5 @@
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
 }
 .logo {
     text-align: center;
@@ -8,3 +8,10 @@ body{
 main h1{
     font-size: 25px;
 }
+@font-face {
+font-family: "sans-serif";
+src: url("microsoftsansserif.ttf") format("truetype");
+font-style: normal; 
+font-weight: normal; 
+}
+    
